@@ -1,8 +1,10 @@
+https://raw.githubusercontent.com/gathering/discord/master/Assets/ChannelHeaders/TGLogo.png
+
 Velkommen til The Gathering sin offisielle Discord.
 
 Server Invite Link: https://discord.gg/PmSTYdT
 
-Retningslinjer
+https://raw.githubusercontent.com/gathering/discord/master/Assets/ChannelHeaders/ServerRules.png
 
 **§ 1 The Gathering**
 The Gathering (TG) er en feiring av digital kultur. Normalt samles tusenvis av dataentusiaster i Vikingskipet hver påske for å feire digital kultur. TG skal være en positiv og inkluderende arena hvor alle er velkomne til å delta digitalt, vi ber bare om at du forholder deg til reglene i kanalene våre. 
@@ -29,7 +31,7 @@ Moderatorene står fritt til å fjerne innhold som bryter med §§ 2-5, eller an
 **§ 7 Hold deg til tema**
 Hold deg til tema i hver kanal. Dette er spesielt viktig i kanaler som er dedikert til support eller spesifikke konkurranser.
 
-Viktige kanaler
+https://raw.githubusercontent.com/gathering/discord/master/Assets/ChannelHeaders/ImportantChannels.png
 
 #annonseringer - Beskjeder fra crew.
 #interessevelger - Valg av temaer og kanaler du ønsker tilgang til.
