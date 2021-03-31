@@ -20,8 +20,8 @@ Det samme gjelder ved brudd på plattformer sine egne brukervilkår (“Terms of
 **§ 4 Støtende innhold**
 Det tillates ikke innhold ment for å støte andre. Dette gjelder særlig hvis det er rettet mot andre brukere i våre kanaler, eller andre som bidrar eller deltar på The Gathering. 
 
-**§ 5 Selvpromotering
-**Selvpromotering er i utgangspunktet ikke lov, med mindre det har en direkte sammenheng med TG og/eller samtalen i kanalen. Det er ingen spesifikke kriterier for hva som regnes som relevant, men tenk deg om før du deler om det er noe som er relevant for det som skjer på TG, eller om dette er noe andre deltakere har interesse av å se. Er du usikker så kan du spørre moderatorene på forhånd om det er greit. 
+**§ 5 Selvpromotering**
+Selvpromotering er i utgangspunktet ikke lov, med mindre det har en direkte sammenheng med TG og/eller samtalen i kanalen. Det er ingen spesifikke kriterier for hva som regnes som relevant, men tenk deg om før du deler om det er noe som er relevant for det som skjer på TG, eller om dette er noe andre deltakere har interesse av å se. Er du usikker så kan du spørre moderatorene på forhånd om det er greit. 
 
 Det skal ikke deles andre Discord-servere. 
 
